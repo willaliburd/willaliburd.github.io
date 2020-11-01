@@ -1,2 +1,7 @@
 name: Willa Tavernier, Knowledge Management Professional, Attorney-at-Law
 markdown: kramdown
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
