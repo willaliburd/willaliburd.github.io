@@ -15,22 +15,26 @@
 
 	    		</ul>
 			</nav>
+			
+			
 			<div class="container">
-    <div class="header">{{ page.title }}</div>
-    <hr>
-    <a href="mailto:willa@nattakm.com">email me</a> | <a href="https://github.com/NAME">github.com/willaliburd</a>
-    <div class="mainbody">
-        {{ content }}
-    </div>
-    <div class="footer">Footer</div>
-</div>
-<div class="container">
-    <div class="header">Header</div>
-    <div class="mainbody">
-
-    </div>
-    <div class="footer"><p><em>Admitted to practice as an Attorney-at-Law in St. Kitts-Nevis, and the British Virgin Islands</em></p></div>
-</div>				
+    			<div class="header">{{ page.title }}</div>
+    			<hr>
+    			<p><a href="mailto:willa@nattakm.com">email me</a> | <a href="https://github.com/NAME">github.com/willaliburd</a></p>
+    
+    			<div class="mainbody">
+        
+				{{ content }}
+    
+    			</div>
+    
+    			</div><!-- /.container -->
+    
+    <footer">
+    	
+	<p><em>Admitted to practice as an Attorney-at-Law in St. Kitts-Nevis, and the British Virgin Islands</em></p>
+    
+    </footer>				
 			
 		</body>
 	</html>
