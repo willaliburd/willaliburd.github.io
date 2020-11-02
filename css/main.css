@@ -41,6 +41,13 @@ p.b {
     font-weight: normal;
     color: #999;
 }
+p.c {
+    font-size: 1.67em;
+    line-height: 1.9em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: normal;
+    color: white;
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
