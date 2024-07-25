@@ -61,6 +61,14 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.below-the-fold {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    padding: 25px;
+}
+
 .center-image
 {
     margin: 0 auto;
