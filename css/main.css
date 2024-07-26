@@ -80,7 +80,10 @@ ul.posts li {
     display: block;
 }
 
-[//]: # (CUSTOM STYLING FROM CFBC WORKS INCUBATOR.)
+
+/** =================================
+Custom styling from CFBCWorks Incubator
+================================= **/
 
 .below-the-fold {
 	display: flex;
